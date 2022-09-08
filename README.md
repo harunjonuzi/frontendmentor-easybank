@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution GitHub Repo](https://github.com/harunjonuzi/FeM-harunj-easybank)
-- Live Site URL: [Solution Live View](https://harunjonuzi.github.io/FeM-harunj-easybank/)
+- [GitHub Repository](https://github.com/harunjonuzi/FeM-harunj-easybank "GitHub Repository")
+- [Live Website](https://harunjonuzi.github.io/FeM-harunj-easybank/ "Live Website")
 
 ## My process
 
