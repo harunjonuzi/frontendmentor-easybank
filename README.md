@@ -54,6 +54,7 @@ In the future I want to be able to fix an issue which is caused when in mobile v
 
 ## Author
 
-- Website - [Harun Jonuzi](https://www.github.com/harunjonuzi)
+- Website - [Harun Jonuzi](https://www.harunjonuzi.com)
+- GitHub - [@harunjonuzi](https://www.github.com/harunjonuzi)
 - Frontend Mentor - [@harunjonuzi](https://www.frontendmentor.io/profile/harunjonuzi)
 - Twitter - [@harunjonuzi](https://www.twitter.com/harunjonuzi)
