@@ -367,6 +367,8 @@ button:hover::before,
     order: 2;
     height: 41rem;
     background-image: none;
+    background-image: url("/images/bg-intro-desktop.svg");
+    background-position: left center;
   }
 }
 @media (min-width: 64em) {
