@@ -10,7 +10,7 @@ https://www.frontendmentor.io/challenges
 
 ## Preview
 
-![Preview](public/img/readme-screenshot1.png)
+![Preview](public/img/readme-screenshot2.png)
 
 ## Run Locally
 
