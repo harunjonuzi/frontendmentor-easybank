@@ -1,60 +1,51 @@
-# Frontend Mentor - Easybank landing page solution
+# Frontend Mentor Challenge | Easy Banking
 
-This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+https://www.frontendmentor.io/challenges
 
-## Table of contents
+## Tech Stack
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+**Client:** Scss, JavaScript, Vite
 
-## Overview
+**Server:** #
 
-### The challenge
+## Preview
 
-Users should be able to:
+![Preview](public/img/readme-screenshot1.png)
 
-- View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+## Run Locally
 
-### Screenshot
+Clone the project:
 
-![](./screenshots/Easybank-Full.png)
+```bash
+  git clone https://github.com/harunjonuzi/frontendmentor-easybank.git
+```
 
-### Links
+Go to the project directory:
 
-- [GitHub Repository](https://github.com/harunjonuzi/FeM-harunj-easybank "GitHub Repository")
-- [Live Website](https://harunjonuzi.github.io/FeM-harunj-easybank/ "Live Website")
+```bash
+  cd my-project
+```
 
-## My process
+Install dependencies:
 
-### Built with
+```bash
+  npm install
+```
 
-- Semantic HTML5 markup
-- Sass
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+Start the server:
 
-### What I learned
+```bash
+  npm run dev
+```
 
-I learned alot about Sass and Grid.
+## Contributing
 
-### Continued development
+This is an open-source project and I welcome contributions from the community.
 
-In the future I want to be able to fix an issue which is caused when in mobile view, opening the menu and then resizing to Desktop view, there is a weird bug happening there but as soon as I learn more about JavaScript I will be able to fix it.
+If you'd like to contribute, please fork the repository and make changes as you'd like. Pull requests are warmly welcome.
 
-## Author
+## Links
 
-- Website - [Harun Jonuzi](https://www.harunjonuzi.com)
-- GitHub - [@harunjonuzi](https://www.github.com/harunjonuzi)
-- Frontend Mentor - [@harunjonuzi](https://www.frontendmentor.io/profile/harunjonuzi)
-- Twitter - [@harunjonuzi](https://www.twitter.com/harunjonuzi)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harunjonuzi.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harunjonuzi)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/harunjonuzi)
